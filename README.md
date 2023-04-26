@@ -17,7 +17,7 @@ io.milton 3.0.0.180
         port: 8080   // 跟随springboot配置
         address: 127.0.0.1 // 跟随springboot配置
 ### 使用
-项目启动后访问两种使用webdav服务
+项目启动后有两种方式访问webdav服务
 
 1. 使用浏览器访问http://127.0.0.1:8080/webdav （浏览器只提供简单的文件浏览和下载）
 
