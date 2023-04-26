@@ -1,7 +1,7 @@
-package com.yusif.nativeipcheck.config;
+package com.yusifmorley.config;
 
-import com.yusif.nativeipcheck.constant.ActionLog;
-import com.yusif.nativeipcheck.service.WebDav.MiltonWebDAVFileServer;
+import com.yusifmorley.constant.ActionLog;
+import com.yusifmorley.WebDav.MiltonWebDAVFileServer;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.web.servlet.ServletRegistrationBean;
 import org.springframework.context.annotation.Bean;

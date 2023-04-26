@@ -1,4 +1,4 @@
-package com.yusifmorley.mywebdav;
+package com.yusifmorley;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

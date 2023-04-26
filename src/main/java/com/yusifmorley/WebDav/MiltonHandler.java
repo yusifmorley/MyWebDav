@@ -16,7 +16,7 @@
  * limitations under the License.
  */
 
-package com.yusif.nativeipcheck.service.WebDav;
+package com.yusifmorley.WebDav;
 import io.milton.http.HttpManager;
 import io.milton.servlet.MiltonServlet;
 import javax.servlet.ServletException;

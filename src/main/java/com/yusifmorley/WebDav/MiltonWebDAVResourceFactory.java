@@ -16,7 +16,7 @@
  * limitations under the License.
  */
 
-package com.yusif.nativeipcheck.service.WebDav;
+package com.yusifmorley.WebDav;
 
 import io.milton.cache.CacheManager;
 import io.milton.cache.LocalCacheManager;

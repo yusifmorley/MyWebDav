@@ -1,1 +1,9 @@
+webdav:
+  folder: res #???
+  path: webdav #?????? ?? webdav url??
+  username: root
+  password: root
 
+server:
+  port: 8080
+  address: 127.0.0.1
